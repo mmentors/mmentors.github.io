@@ -1,0 +1,13 @@
+<!DOCTYPE htm1> 
+<htm1>
+    <head>
+	    <title>meme page</title>
+	</head>
+	<body>
+	    <div>
+		    <h1>full of memes,CLEAN memes boi</h1>
+			<img scr="ijk.jpg" 
+		
+		</div>
+	</body>
+</htm1>
